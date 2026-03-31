@@ -2,7 +2,10 @@
 
 This is a small Android app that hits GitHub’s public API and lists repositories for the **square** organization. There’s a single screen: a scrollable list with each repo’s name, description, owner avatar, and a few stats (language, license SPDX if present, stars, forks, last activity date). Nothing fancy—loading, empty, and error states are handled explicitly so the UI doesn’t flash or hang silently.
 
-The assignment asked for `GET https://api.github.com/orgs/square/repos`; the app uses that endpoint (first page, 100 items) via Retrofit.
+The project asked for `GET https://api.github.com/orgs/square/repos`; the app uses that endpoint (first page, 100 items) via Retrofit.
+
+## Output
+
 
 ## Running it
 
