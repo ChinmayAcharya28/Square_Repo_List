@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Square Repos</string>
+    <string name="repos_screen_title">Square on GitHub</string>
+    <string name="repos_screen_subtitle">Open-source repositories</string>
+    <string name="loading_repositories">Loading repositories…</string>
+    <string name="repo_no_description">No description</string>
+    <string name="repo_language_line">%1$s</string>
+    <string name="repo_language_icon_content_description">Language</string>
+    <string name="repo_license_icon_content_description">License</string>
+    <string name="repo_stars_icon_content_description">Stars</string>
+    <string name="repo_forks_icon_content_description">Forks</string>
+    <string name="repo_last_activity_line">Last Activity : %1$s</string>
+    <string name="repo_owner_avatar">Avatar for %1$s</string>
+    <string name="repos_empty">No repositories returned.</string>
+    <string name="action_retry">Retry</string>
+</resources>
