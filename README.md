@@ -5,7 +5,12 @@ This is a small Android app that hits GitHub’s public API and lists repositori
 The project asked for `GET https://api.github.com/orgs/square/repos`; the app uses that endpoint (first page, 100 items) via Retrofit.
 
 ## Output
-https://github.com/ChinmayAcharya28/Square_Repo_List/blame/development/Output.mp4
+
+
+https://github.com/user-attachments/assets/dd169632-573d-4246-8d08-b17c2a901503
+
+
+
 
 ## Running it
 
